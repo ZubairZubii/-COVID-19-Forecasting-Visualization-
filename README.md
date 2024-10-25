@@ -11,6 +11,8 @@
 
 The **COVID-19 Forecasting & Visualization** project aims to analyze and forecast the progression of COVID-19 cases and deaths globally. Utilizing advanced data visualization techniques and machine learning models, this project provides insights into trends and potential future outcomes of the pandemic.
 
+![map](https://github.com/user-attachments/assets/effdec10-01db-4d60-8846-671905fcf9ac)
+
 ### 🛠️ Technologies Used
 - **Python**: 3.7+
 - **Flask**: 2.0.1
@@ -29,13 +31,14 @@ The **COVID-19 Forecasting & Visualization** project aims to analyze and forecas
 ## 📊 Example Graphs
 
 ### Daily COVID-19 Cases and 5-Day Moving Average
-![Daily Cases](https://your_image_url_here) <!-- Replace with your actual image URL -->
+![Daily Cases](https://github.com/user-attachments/assets/f456faf4-032f-4bf5-9aba-26772d680e9a)
+ <!-- Replace with your actual image URL -->
 
 ### Daily COVID-19 Deaths and 5-Day Moving Average
-![Daily Deaths](https://your_image_url_here) <!-- Replace with your actual image URL -->
+![Daily Deaths](https://github.com/user-attachments/assets/446cc948-4805-4da7-997e-c8190452a06e) <!-- Replace with your actual image URL -->
 
 ### Forecasting of Next 30 Days Cases
-![Forecast](https://your_image_url_here) <!-- Replace with your actual image URL -->
+![Forecast](https://github.com/user-attachments/assets/1d997bff-40e0-44ec-963f-c547eceffe80) <!-- Replace with your actual image URL -->
 
 ## ⚙️ Installation
 
@@ -72,11 +75,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Let's fight COVID-19 together! 💪**
 ```
-
-### Customization Tips:
-1. **Badges**: You can replace the badge links with your project's specific links.
-2. **Graphs**: Ensure you upload your generated graph images and replace the placeholder URLs with the actual image links.
-3. **Social Links**: Update the links to your actual website, documentation, or contact information.
-4. **Project Description**: Feel free to modify the project overview and features according to the specifics of your project.
-
-This README should help make your project stand out on GitHub!
